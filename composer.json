@@ -1,0 +1,27 @@
+{
+    "name": "boldoutlook/wp-tests",
+    "version": "1.0.0",
+    "description": "Tools to help you test and measure the integrity of your WordPress site.",
+    "type": "library",
+    "homepage": "http://wp-tests.boldoutlook.com/",
+    "license": "MIT",
+    "keywords": [
+        "wordpress",
+        "test",
+        "tests",
+        "cucumber",
+        "export",
+        "import",
+        "security",
+        "unit test",
+        "unit tests"
+    ],
+    "authors": [
+        {
+            "name": "Brandon Himpfen",
+            "email": "brandon@himpfen.com",
+            "homepage": "http://www.himpfen.com",
+            "role": "Developer"
+        }
+    ]
+}
