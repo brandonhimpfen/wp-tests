@@ -2,7 +2,7 @@
 
 WP Tests is a fantastically exhaustive set of tools to help you test and measure the integrity of your WordPress site, including its theme and plugins.
 
-[![GitHub](https://brandonhimpfen.github.io/badges/github/github-flat.svg)](https://bit.ly/bh-githubsponsors) &nbsp; [![Ko-Fi](https://brandonhimpfen.github.io/badges/ko-fi/ko-fi-flat.svg)](https://bit.ly/bh-kofi) &nbsp; [![PayPal](https://brandonhimpfen.github.io/badges/paypal/paypal-flat.svg)](https://bit.ly/bh-paypal) &nbsp; [![Patreon](https://brandonhimpfen.github.io/badges/patreon/patreon-flat.svg)](https://bit.ly/bh-patreon)
+[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen/) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
 
 ## Table of Contents
 
